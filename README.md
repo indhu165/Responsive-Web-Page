@@ -13,6 +13,20 @@ A responsive website created using HTML, CSS, and JavaScript to spread awareness
 - HTML5
 - CSS3
 - JavaScript
+  
+## Project Structure
+Environment-Awareness-Website/
+│
+├── index.html
+├── style.css
+├── script.js
+└── images/
+
+## 🚀 Live Demo
+
+Visit the website here:
+
+https://indhu165.github.io/Responsive-Web-Page/
 
 ## Author
 M. Indhu
